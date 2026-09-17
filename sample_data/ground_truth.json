@@ -1,0 +1,331 @@
+[
+  {
+    "frame": 0,
+    "image_file": "road_frame_0000.jpg",
+    "boxes": []
+  },
+  {
+    "frame": 15,
+    "image_file": "road_frame_0015.jpg",
+    "boxes": []
+  },
+  {
+    "frame": 30,
+    "image_file": "road_frame_0030.jpg",
+    "boxes": [
+      {
+        "bbox": [
+          663,
+          368,
+          687,
+          382
+        ],
+        "class": "pothole",
+        "severity": "MODERATE"
+      }
+    ]
+  },
+  {
+    "frame": 45,
+    "image_file": "road_frame_0045.jpg",
+    "boxes": [
+      {
+        "bbox": [
+          681,
+          422,
+          715,
+          442
+        ],
+        "class": "pothole",
+        "severity": "MODERATE"
+      }
+    ]
+  },
+  {
+    "frame": 60,
+    "image_file": "road_frame_0060.jpg",
+    "boxes": [
+      {
+        "bbox": [
+          695,
+          475,
+          741,
+          503
+        ],
+        "class": "pothole",
+        "severity": "MODERATE"
+      }
+    ]
+  },
+  {
+    "frame": 75,
+    "image_file": "road_frame_0075.jpg",
+    "boxes": [
+      {
+        "bbox": [
+          706,
+          529,
+          766,
+          565
+        ],
+        "class": "pothole",
+        "severity": "MODERATE"
+      }
+    ]
+  },
+  {
+    "frame": 90,
+    "image_file": "road_frame_0090.jpg",
+    "boxes": [
+      {
+        "bbox": [
+          715,
+          581,
+          791,
+          627
+        ],
+        "class": "pothole",
+        "severity": "MODERATE"
+      }
+    ]
+  },
+  {
+    "frame": 105,
+    "image_file": "road_frame_0105.jpg",
+    "boxes": [
+      {
+        "bbox": [
+          727,
+          633,
+          819,
+          689
+        ],
+        "class": "pothole",
+        "severity": "MODERATE"
+      }
+    ]
+  },
+  {
+    "frame": 120,
+    "image_file": "road_frame_0120.jpg",
+    "boxes": []
+  },
+  {
+    "frame": 135,
+    "image_file": "road_frame_0135.jpg",
+    "boxes": [
+      {
+        "bbox": [
+          592,
+          347,
+          626,
+          365
+        ],
+        "class": "pothole",
+        "severity": "CRITICAL"
+      }
+    ]
+  },
+  {
+    "frame": 150,
+    "image_file": "road_frame_0150.jpg",
+    "boxes": [
+      {
+        "bbox": [
+          563,
+          400,
+          611,
+          426
+        ],
+        "class": "pothole",
+        "severity": "CRITICAL"
+      }
+    ]
+  },
+  {
+    "frame": 165,
+    "image_file": "road_frame_0165.jpg",
+    "boxes": [
+      {
+        "bbox": [
+          534,
+          452,
+          600,
+          488
+        ],
+        "class": "pothole",
+        "severity": "CRITICAL"
+      }
+    ]
+  },
+  {
+    "frame": 180,
+    "image_file": "road_frame_0180.jpg",
+    "boxes": [
+      {
+        "bbox": [
+          506,
+          504,
+          592,
+          552
+        ],
+        "class": "pothole",
+        "severity": "CRITICAL"
+      }
+    ]
+  },
+  {
+    "frame": 195,
+    "image_file": "road_frame_0195.jpg",
+    "boxes": [
+      {
+        "bbox": [
+          476,
+          554,
+          586,
+          616
+        ],
+        "class": "pothole",
+        "severity": "CRITICAL"
+      }
+    ]
+  },
+  {
+    "frame": 210,
+    "image_file": "road_frame_0210.jpg",
+    "boxes": [
+      {
+        "bbox": [
+          444,
+          604,
+          578,
+          680
+        ],
+        "class": "pothole",
+        "severity": "CRITICAL"
+      }
+    ]
+  },
+  {
+    "frame": 225,
+    "image_file": "road_frame_0225.jpg",
+    "boxes": [
+      {
+        "bbox": [
+          408,
+          655,
+          570,
+          720
+        ],
+        "class": "pothole",
+        "severity": "CRITICAL"
+      }
+    ]
+  },
+  {
+    "frame": 240,
+    "image_file": "road_frame_0240.jpg",
+    "boxes": []
+  },
+  {
+    "frame": 255,
+    "image_file": "road_frame_0255.jpg",
+    "boxes": [
+      {
+        "bbox": [
+          646,
+          370,
+          664,
+          380
+        ],
+        "class": "pothole",
+        "severity": "MINOR"
+      }
+    ]
+  },
+  {
+    "frame": 270,
+    "image_file": "road_frame_0270.jpg",
+    "boxes": [
+      {
+        "bbox": [
+          641,
+          424,
+          665,
+          440
+        ],
+        "class": "pothole",
+        "severity": "MINOR"
+      }
+    ]
+  },
+  {
+    "frame": 285,
+    "image_file": "road_frame_0285.jpg",
+    "boxes": [
+      {
+        "bbox": [
+          630,
+          478,
+          664,
+          500
+        ],
+        "class": "pothole",
+        "severity": "MINOR"
+      }
+    ]
+  },
+  {
+    "frame": 300,
+    "image_file": "road_frame_0300.jpg",
+    "boxes": [
+      {
+        "bbox": [
+          621,
+          533,
+          665,
+          561
+        ],
+        "class": "pothole",
+        "severity": "MINOR"
+      }
+    ]
+  },
+  {
+    "frame": 315,
+    "image_file": "road_frame_0315.jpg",
+    "boxes": [
+      {
+        "bbox": [
+          611,
+          587,
+          667,
+          621
+        ],
+        "class": "pothole",
+        "severity": "MINOR"
+      }
+    ]
+  },
+  {
+    "frame": 330,
+    "image_file": "road_frame_0330.jpg",
+    "boxes": [
+      {
+        "bbox": [
+          604,
+          640,
+          672,
+          682
+        ],
+        "class": "pothole",
+        "severity": "MINOR"
+      }
+    ]
+  },
+  {
+    "frame": 345,
+    "image_file": "road_frame_0345.jpg",
+    "boxes": []
+  }
+]

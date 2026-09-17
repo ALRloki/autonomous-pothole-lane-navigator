@@ -1,0 +1,5 @@
+names:
+  0: pothole
+path: sample_data
+train: images
+val: images
